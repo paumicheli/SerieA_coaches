@@ -1,0 +1,916 @@
+coach_qid,coach_name,team_qid,team_name,played_there
+Q180661,Dino Zoff,Q2913263,Italy national under-23 football team,0
+Q180661,Dino Zoff,Q1422,Juventus FC,1
+Q180661,Dino Zoff,Q2609,SS Lazio,0
+Q180661,Dino Zoff,Q2609,SS Lazio,0
+Q180661,Dino Zoff,Q676899,Italy men's national association football team,1
+Q180661,Dino Zoff,Q2609,SS Lazio,0
+Q180661,Dino Zoff,Q2052,ACF Fiorentina,0
+Q68039,Zbigniew Boniek,Q13391,US Lecce,0
+Q218369,Sven-Göran Eriksson,Q1140767,Degerfors IF,0
+Q218369,Sven-Göran Eriksson,Q201567,IFK Göteborg,0
+Q218369,Sven-Göran Eriksson,Q131499,S.L. Benfica,0
+Q218369,Sven-Göran Eriksson,Q2739,A.S. Roma,0
+Q218369,Sven-Göran Eriksson,Q2052,ACF Fiorentina,0
+Q218369,Sven-Göran Eriksson,Q131499,S.L. Benfica,0
+Q218369,Sven-Göran Eriksson,Q1457,U.C. Sampdoria,0
+Q218369,Sven-Göran Eriksson,Q2609,SS Lazio,0
+Q218369,Sven-Göran Eriksson,Q47762,England men's national association football team,0
+Q218369,Sven-Göran Eriksson,Q50602,Manchester City F.C.,0
+Q218369,Sven-Göran Eriksson,Q164089,Mexico men's national football team,0
+Q218369,Sven-Göran Eriksson,Q175145,Ivory Coast men's national football team,0
+Q218369,Sven-Göran Eriksson,Q19481,Leicester City F.C.,0
+Q218369,Sven-Göran Eriksson,Q1192340,Guangzhou City F.C.,0
+Q218369,Sven-Göran Eriksson,Q564216,Shanghai Port F.C.,0
+Q218369,Sven-Göran Eriksson,Q1139956,Shenzhen F.C.,0
+Q218369,Sven-Göran Eriksson,Q219854,Philippines men's national association football team,0
+Q511092,Eugenio Corini,Q6651,Brescia Calcio,1
+Q511092,Eugenio Corini,Q6651,Brescia Calcio,1
+Q9354,Gianfranco Zola,Q9616,Chelsea F.C.,1
+Q44464,Rudi Völler,Q104761,Bayer 04 Leverkusen,1
+Q44464,Rudi Völler,Q43310,Germany men's national association football team,1
+Q44464,Rudi Völler,Q1050607,caretaker manager,0
+Q192131,Giuseppe Meazza,Q1886,Atalanta BC,1
+Q192131,Giuseppe Meazza,Q631,Inter Milan,1
+Q192131,Giuseppe Meazza,Q172567,Beşiktaş J.K.,0
+Q192131,Giuseppe Meazza,Q777337,Aurora Pro Patria 1919,0
+Q192131,Giuseppe Meazza,Q676899,Italy men's national association football team,1
+Q192131,Giuseppe Meazza,Q631,Inter Milan,1
+Q192131,Giuseppe Meazza,Q631,Inter Milan,1
+Q15802,Daniel Passarella,Q768253,Club de Fútbol Monterrey,0
+Q227892,Alessandro Nesta,Q19984972,Miami FC,0
+Q227892,Alessandro Nesta,Q16344,A.C. Perugia Calcio,0
+Q227892,Alessandro Nesta,Q845043,Frosinone Calcio,0
+Q227892,Alessandro Nesta,Q289707,A.C. Reggiana 1919,0
+Q227892,Alessandro Nesta,Q289482,AC Monza,0
+Q484909,Clarence Seedorf,Q1543,AC Milan,1
+Q484909,Clarence Seedorf,Q8760,Deportivo de La Coruña,0
+Q222789,Luis Enrique,Q10467,FC Barcelona Atlètic,0
+Q222789,Luis Enrique,Q2739,A.S. Roma,0
+Q222789,Luis Enrique,Q8749,RC Celta de Vigo,0
+Q222789,Luis Enrique,Q7156,FC Barcelona,1
+Q222789,Luis Enrique,Q42267,Spain men's national football team,1
+Q222789,Luis Enrique,Q42267,Spain men's national football team,1
+Q222789,Luis Enrique,Q483020,Paris Saint-Germain FC,0
+Q41244,Andriy Shevchenko,Q170403,Ukraine men's national football team,1
+Q41244,Andriy Shevchenko,Q2074,Genoa CFC,0
+Q235068,Claudio Ranieri,Q1948889,Vigor Lamezia,0
+Q235068,Claudio Ranieri,Q15140971,S.S.D. Puteolana 1902 Internapoli,0
+Q235068,Claudio Ranieri,Q15140971,S.S.D. Puteolana 1902 Internapoli,0
+Q235068,Claudio Ranieri,Q1900,Cagliari Calcio,0
+Q235068,Claudio Ranieri,Q2641,SSC Napoli,0
+Q235068,Claudio Ranieri,Q2052,ACF Fiorentina,0
+Q235068,Claudio Ranieri,Q10333,Valencia CF,0
+Q235068,Claudio Ranieri,Q8701,Atlético de Madrid,0
+Q235068,Claudio Ranieri,Q9616,Chelsea F.C.,0
+Q235068,Claudio Ranieri,Q10333,Valencia CF,0
+Q235068,Claudio Ranieri,Q2693,Parma Calcio 1913,0
+Q235068,Claudio Ranieri,Q1422,Juventus FC,0
+Q235068,Claudio Ranieri,Q2739,A.S. Roma,1
+Q235068,Claudio Ranieri,Q631,Inter Milan,0
+Q235068,Claudio Ranieri,Q180305,AS Monaco FC,0
+Q235068,Claudio Ranieri,Q134925,Greece men's national football team,0
+Q235068,Claudio Ranieri,Q19481,Leicester City F.C.,0
+Q235068,Claudio Ranieri,Q192071,FC Nantes,0
+Q235068,Claudio Ranieri,Q18708,Fulham F.C.,0
+Q235068,Claudio Ranieri,Q2739,A.S. Roma,1
+Q235068,Claudio Ranieri,Q1457,U.C. Sampdoria,0
+Q235068,Claudio Ranieri,Q2714,Watford F.C.,0
+Q235068,Claudio Ranieri,Q1900,Cagliari Calcio,0
+Q235068,Claudio Ranieri,Q2739,A.S. Roma,1
+Q183108,Fabio Capello,Q3299830,A.C. Milan Primavera,0
+Q183108,Fabio Capello,Q1543,AC Milan,1
+Q183108,Fabio Capello,Q1543,AC Milan,1
+Q183108,Fabio Capello,Q8682,Real Madrid CF,0
+Q183108,Fabio Capello,Q1543,AC Milan,1
+Q183108,Fabio Capello,Q2739,A.S. Roma,1
+Q183108,Fabio Capello,Q1422,Juventus FC,1
+Q183108,Fabio Capello,Q8682,Real Madrid CF,0
+Q183108,Fabio Capello,Q47762,England men's national association football team,0
+Q183108,Fabio Capello,Q726080,Russia men's national football team,0
+Q183108,Fabio Capello,Q925648,Jiangsu F.C.,0
+Q654036,Jesse Carver,Q19487,Millwall F.C.,0
+Q219657,Frank de Boer,Q47050,Netherlands national association football team,1
+Q219657,Frank de Boer,Q81888,AFC Ajax,1
+Q219657,Frank de Boer,Q631,Inter Milan,0
+Q219657,Frank de Boer,Q19467,Crystal Palace F.C.,0
+Q219657,Frank de Boer,Q16836317,Atlanta United FC,0
+Q312143,David Platt,Q19490,Nottingham Forest F.C.,1
+Q144048,Rafa Benítez,Q6101985,Real Madrid Juvenil,0
+Q144048,Rafa Benítez,Q12217,Real Madrid Castilla,1
+Q144048,Rafa Benítez,Q12217,Real Madrid Castilla,1
+Q144048,Rafa Benítez,Q10319,Real Valladolid,0
+Q144048,Rafa Benítez,Q10286,Club Atlético Osasuna,0
+Q144048,Rafa Benítez,Q994224,Extremadura UD,0
+Q144048,Rafa Benítez,Q216661,C.D. Tenerife,0
+Q144048,Rafa Benítez,Q10333,Valencia CF,0
+Q144048,Rafa Benítez,Q1130849,Liverpool F.C.,0
+Q144048,Rafa Benítez,Q631,Inter Milan,0
+Q144048,Rafa Benítez,Q9616,Chelsea F.C.,0
+Q144048,Rafa Benítez,Q2641,SSC Napoli,0
+Q144048,Rafa Benítez,Q8682,Real Madrid CF,0
+Q144048,Rafa Benítez,Q18716,Newcastle United F.C.,0
+Q144048,Rafa Benítez,Q1157920,Dalian Professional F.C.,0
+Q144048,Rafa Benítez,Q5794,Everton F.C.,0
+Q144048,Rafa Benítez,Q8749,RC Celta de Vigo,0
+Q116980,Gennaro Gattuso,Q2674,Palermo F.C.,0
+Q116980,Gennaro Gattuso,Q931704,O.F.I. Crete F.C.,0
+Q116980,Gennaro Gattuso,Q289613,Pisa SC,0
+Q116980,Gennaro Gattuso,Q289613,Pisa SC,0
+Q116980,Gennaro Gattuso,Q3299830,A.C. Milan Primavera,0
+Q116980,Gennaro Gattuso,Q1543,AC Milan,1
+Q116980,Gennaro Gattuso,Q2641,SSC Napoli,0
+Q116980,Gennaro Gattuso,Q10333,Valencia CF,0
+Q116980,Gennaro Gattuso,Q132885,Olympique de Marseille,0
+Q116980,Gennaro Gattuso,Q181216,HNK Hajduk Split,0
+Q116980,Gennaro Gattuso,Q676899,Italy men's national association football team,1
+Q276544,Igor Tudor,Q181216,HNK Hajduk Split,1
+Q276544,Igor Tudor,Q204888,P.A.O.K. F.C.,0
+Q276544,Igor Tudor,Q301332,Kardemir Karabükspor,0
+Q276544,Igor Tudor,Q495299,Galatasaray S.K.,0
+Q276544,Igor Tudor,Q2798,Udinese Calcio,0
+Q276544,Igor Tudor,Q2798,Udinese Calcio,0
+Q276544,Igor Tudor,Q181216,HNK Hajduk Split,1
+Q276544,Igor Tudor,Q8639,Hellas Verona FC,0
+Q276544,Igor Tudor,Q132885,Olympique de Marseille,0
+Q276544,Igor Tudor,Q2609,SS Lazio,0
+Q276544,Igor Tudor,Q1422,Juventus FC,1
+Q79983,José Mourinho,Q131499,S.L. Benfica,0
+Q79983,José Mourinho,Q211401,U.D. Leiria,0
+Q79983,José Mourinho,Q128446,FC Porto,0
+Q79983,José Mourinho,Q9616,Chelsea F.C.,0
+Q79983,José Mourinho,Q631,Inter Milan,0
+Q79983,José Mourinho,Q8682,Real Madrid CF,0
+Q79983,José Mourinho,Q9616,Chelsea F.C.,0
+Q79983,José Mourinho,Q18656,Manchester United F.C.,0
+Q79983,José Mourinho,Q18741,Tottenham Hotspur F.C.,0
+Q79983,José Mourinho,Q2739,A.S. Roma,0
+Q79983,José Mourinho,Q6601875,Fenerbahçe Istanbul,0
+Q44420,Giovanni Trapattoni,Q1543,AC Milan,0
+Q44420,Giovanni Trapattoni,Q1422,Juventus FC,1
+Q44420,Giovanni Trapattoni,Q631,Inter Milan,0
+Q44420,Giovanni Trapattoni,Q1422,Juventus FC,1
+Q44420,Giovanni Trapattoni,Q15789,FC Bayern Munich,0
+Q44420,Giovanni Trapattoni,Q1900,Cagliari Calcio,0
+Q44420,Giovanni Trapattoni,Q15789,FC Bayern Munich,0
+Q44420,Giovanni Trapattoni,Q2052,ACF Fiorentina,0
+Q44420,Giovanni Trapattoni,Q676899,Italy men's national association football team,1
+Q44420,Giovanni Trapattoni,Q131499,S.L. Benfica,0
+Q44420,Giovanni Trapattoni,Q4512,VfB Stuttgart,0
+Q44420,Giovanni Trapattoni,Q994811,FC Red Bull Salzburg,0
+Q44420,Giovanni Trapattoni,Q163547,Republic of Ireland men's national association football team,0
+Q126503,Filippo Inzaghi,Q1543,AC Milan,1
+Q126503,Filippo Inzaghi,Q501245,Venezia F.C.,0
+Q126503,Filippo Inzaghi,Q1893,Bologna F.C. 1909,0
+Q126503,Filippo Inzaghi,Q652516,Benevento Calcio,0
+Q126503,Filippo Inzaghi,Q6651,Brescia Calcio,0
+Q126503,Filippo Inzaghi,Q8476,AS Reggina 1914,1
+Q126503,Filippo Inzaghi,Q847587,U.S. Salernitana 1919,0
+Q126503,Filippo Inzaghi,Q289613,Pisa SC,0
+Q126503,Filippo Inzaghi,Q2674,Palermo F.C.,0
+Q294718,Roberto Donadoni,Q944876,Calcio Lecco 1912,0
+Q294718,Roberto Donadoni,Q944876,Calcio Lecco 1912,0
+Q294718,Roberto Donadoni,Q6767,US Livorno 1915,0
+Q294718,Roberto Donadoni,Q2074,Genoa CFC,0
+Q294718,Roberto Donadoni,Q6767,US Livorno 1915,0
+Q294718,Roberto Donadoni,Q676899,Italy men's national association football team,1
+Q294718,Roberto Donadoni,Q2641,SSC Napoli,0
+Q294718,Roberto Donadoni,Q1900,Cagliari Calcio,0
+Q294718,Roberto Donadoni,Q2693,Parma Calcio 1913,0
+Q294718,Roberto Donadoni,Q1893,Bologna F.C. 1909,0
+Q294718,Roberto Donadoni,Q1139956,Shenzhen F.C.,0
+Q102027,Fabio Cannavaro,Q130521,Guangzhou F.C.,0
+Q102027,Fabio Cannavaro,Q652516,Benevento Calcio,0
+Q102027,Fabio Cannavaro,Q2798,Udinese Calcio,0
+Q102027,Fabio Cannavaro,Q172803,GNK Dinamo Zagreb,0
+Q3362674,Paolo Vanoli,Q9616,Chelsea F.C.,0
+Q314511,Gunnar Gren,Q1543,AC Milan,1
+Q46741,Leonardo Araújo,Q1543,AC Milan,1
+Q258115,Diego Simeone,Q276533,Racing Club,1
+Q258115,Diego Simeone,Q214940,Estudiantes de La Plata,0
+Q258115,Diego Simeone,Q15799,Club Atlético River Plate,0
+Q258115,Diego Simeone,Q218282,San Lorenzo de Almagro,0
+Q258115,Diego Simeone,Q2018,Catania FC,0
+Q258115,Diego Simeone,Q276533,Racing Club,1
+Q258115,Diego Simeone,Q8701,Atlético de Madrid,1
+Q258115,Diego Simeone,Q2641,SSC Napoli,0
+Q174614,Carlo Ancelotti,Q289707,A.C. Reggiana 1919,0
+Q174614,Carlo Ancelotti,Q2693,Parma Calcio 1913,1
+Q174614,Carlo Ancelotti,Q1422,Juventus FC,0
+Q174614,Carlo Ancelotti,Q1543,AC Milan,1
+Q174614,Carlo Ancelotti,Q9616,Chelsea F.C.,0
+Q174614,Carlo Ancelotti,Q483020,Paris Saint-Germain FC,0
+Q174614,Carlo Ancelotti,Q8682,Real Madrid CF,0
+Q174614,Carlo Ancelotti,Q15789,FC Bayern Munich,0
+Q174614,Carlo Ancelotti,Q2641,SSC Napoli,0
+Q174614,Carlo Ancelotti,Q5794,Everton F.C.,0
+Q174614,Carlo Ancelotti,Q8682,Real Madrid CF,0
+Q174614,Carlo Ancelotti,Q83459,Brazil men's national football team,0
+Q210491,Cristian Chivu,Q2693,Parma Calcio 1913,0
+Q210491,Cristian Chivu,Q631,Inter Milan,1
+Q262203,Fatih Terim,Q492826,MKE Ankaragücü,0
+Q262203,Fatih Terim,Q1423118,Göztepe S.K.,0
+Q262203,Fatih Terim,Q1624749,Turkey national under-21 football team,1
+Q262203,Fatih Terim,Q483856,Turkey men's national football team,1
+Q262203,Fatih Terim,Q495299,Galatasaray S.K.,1
+Q262203,Fatih Terim,Q2052,ACF Fiorentina,0
+Q262203,Fatih Terim,Q1543,AC Milan,0
+Q262203,Fatih Terim,Q495299,Galatasaray S.K.,1
+Q262203,Fatih Terim,Q483856,Turkey men's national football team,1
+Q262203,Fatih Terim,Q483856,Turkey men's national football team,1
+Q262203,Fatih Terim,Q495299,Galatasaray S.K.,1
+Q262203,Fatih Terim,Q483856,Turkey men's national football team,1
+Q262203,Fatih Terim,Q495299,Galatasaray S.K.,1
+Q262203,Fatih Terim,Q4122219,Panathinaikos F.C.,0
+Q262203,Fatih Terim,Q2636005,Al-Shabab Football Club,0
+Q294351,Siniša Mihajlović,Q1893,Bologna F.C. 1909,0
+Q294351,Siniša Mihajlović,Q2018,Catania FC,0
+Q294351,Siniša Mihajlović,Q2052,ACF Fiorentina,0
+Q294351,Siniša Mihajlović,Q182740,Serbia men's national football team,0
+Q294351,Siniša Mihajlović,Q1457,U.C. Sampdoria,1
+Q294351,Siniša Mihajlović,Q1543,AC Milan,0
+Q294351,Siniša Mihajlović,Q2768,Torino FC,0
+Q294351,Siniša Mihajlović,Q75729,Sporting CP,0
+Q294351,Siniša Mihajlović,Q1893,Bologna F.C. 1909,0
+Q294302,Walter Zenga,Q309095,New England Revolution,1
+Q294302,Walter Zenga,Q25230762,Brera Calcio,0
+Q294302,Walter Zenga,Q1195647,FC Progresul București,0
+Q294302,Walter Zenga,Q179658,FCSB,0
+Q294302,Walter Zenga,Q173009,FK Crvena zvezda,0
+Q294302,Walter Zenga,Q285722,Gaziantepspor,0
+Q294302,Walter Zenga,Q204237,FC Dinamo Bucharest,0
+Q294302,Walter Zenga,Q2018,Catania FC,0
+Q294302,Walter Zenga,Q2674,Palermo F.C.,0
+Q294302,Walter Zenga,Q482764,Al-Nassr,0
+Q294302,Walter Zenga,Q812723,Al-Nasr SC,0
+Q294302,Walter Zenga,Q429630,Al Jazira Club,0
+Q294302,Walter Zenga,Q812740,Al-Shaab CSC,0
+Q294302,Walter Zenga,Q1457,U.C. Sampdoria,1
+Q294302,Walter Zenga,Q19500,Wolverhampton Wanderers F.C.,0
+Q294302,Walter Zenga,Q6690,F.C. Crotone,0
+Q294302,Walter Zenga,Q501245,Venezia F.C.,0
+Q294302,Walter Zenga,Q1900,Cagliari Calcio,0
+Q294302,Walter Zenga,Q1191998,Emirates Club,0
+Q503297,Tarcisio Burgnich,Q6767,US Livorno 1915,0
+Q382987,Giovanni Ferrari,Q1422,Juventus FC,1
+Q48330,Roberto Mancini,Q2052,ACF Fiorentina,0
+Q48330,Roberto Mancini,Q2609,SS Lazio,1
+Q48330,Roberto Mancini,Q631,Inter Milan,0
+Q48330,Roberto Mancini,Q50602,Manchester City F.C.,0
+Q48330,Roberto Mancini,Q495299,Galatasaray S.K.,0
+Q48330,Roberto Mancini,Q631,Inter Milan,0
+Q48330,Roberto Mancini,Q29108,FC Zenit Saint Petersburg,0
+Q48330,Roberto Mancini,Q676899,Italy men's national association football team,1
+Q48330,Roberto Mancini,Q189723,Saudi Arabia men's national football team,0
+Q297768,Vincenzo Montella,Q2018,Catania FC,0
+Q297768,Vincenzo Montella,Q2052,ACF Fiorentina,0
+Q297768,Vincenzo Montella,Q1457,U.C. Sampdoria,1
+Q297768,Vincenzo Montella,Q1543,AC Milan,0
+Q297768,Vincenzo Montella,Q10329,Sevilla FC,0
+Q297768,Vincenzo Montella,Q2052,ACF Fiorentina,0
+Q297768,Vincenzo Montella,Q352251,Adana Demirspor,0
+Q297768,Vincenzo Montella,Q483856,Turkey men's national football team,0
+Q314440,Paulo Sousa,Q18723,Queens Park Rangers F.C.,0
+Q469096,Alfredo Foni,Q501245,Venezia F.C.,0
+Q314053,Luigi Di Biagio,Q922698,Italy national under-21 football team,0
+Q312633,Nils Liedholm,Q1543,AC Milan,1
+Q43304,Marcello Lippi,Q62024581,U.C. Sampdoria under-19,0
+Q43304,Marcello Lippi,Q1056821,U.S. Città di Pontedera S.S.D.,0
+Q43304,Marcello Lippi,Q2756,Siena FC,0
+Q43304,Marcello Lippi,Q1279917,Pistoiese FC,1
+Q43304,Marcello Lippi,Q650365,Carrarese Calcio,0
+Q43304,Marcello Lippi,Q6664,AC Cesena,0
+Q43304,Marcello Lippi,Q298333,Lucchese 1905,1
+Q43304,Marcello Lippi,Q1886,Atalanta BC,0
+Q43304,Marcello Lippi,Q2641,SSC Napoli,0
+Q43304,Marcello Lippi,Q1422,Juventus FC,0
+Q43304,Marcello Lippi,Q631,Inter Milan,0
+Q43304,Marcello Lippi,Q1422,Juventus FC,0
+Q43304,Marcello Lippi,Q676899,Italy men's national association football team,0
+Q43304,Marcello Lippi,Q676899,Italy men's national association football team,0
+Q43304,Marcello Lippi,Q130521,Guangzhou F.C.,0
+Q43304,Marcello Lippi,Q130582,China men's national football team,0
+Q342698,Mircea Lucescu,Q1135735,CS Corvinul Hunedoara,1
+Q342698,Mircea Lucescu,Q179075,FC Dynamo Kyiv,0
+Q342698,Mircea Lucescu,Q168397,Romania men's national association football team,1
+Q168497,Daniele De Rossi,Q13385,SPAL,0
+Q168497,Daniele De Rossi,Q2739,A.S. Roma,1
+Q449873,Carlos Bianchi,Q483020,Paris Saint-Germain FC,1
+Q43926,Andrea Pirlo,Q56025745,Juventus F.C. Next Gen,0
+Q43926,Andrea Pirlo,Q1422,Juventus FC,1
+Q43926,Andrea Pirlo,Q1398111,Fatih Karagümrük S.K.,0
+Q43926,Andrea Pirlo,Q1457,U.C. Sampdoria,0
+Q342484,Massimo brambella,Q16320,Club Atlético Peñarol,1
+Q296350,Cesare Maldini,Q1543,AC Milan,1
+Q318041,Vittorio Pozzo,Q1543,AC Milan,0
+Q314078,Ciro Ferrara,Q1422,Juventus FC,1
+Q218380,Cesare Prandelli,Q1886,Atalanta BC,1
+Q332742,Luigi Delneri,Q297680,A.S.G. Nocerina,0
+Q192640,Dejan Stanković,Q173009,FK Crvena zvezda,1
+Q192640,Dejan Stanković,Q1457,U.C. Sampdoria,0
+Q191885,Thiago Motta,Q2074,Genoa CFC,1
+Q191885,Thiago Motta,Q8615,Spezia Calcio,0
+Q191885,Thiago Motta,Q1893,Bologna F.C. 1909,0
+Q191885,Thiago Motta,Q1422,Juventus FC,0
+Q203781,Roy Hodgson,Q584858,Halmstads BK,0
+Q203781,Roy Hodgson,Q19456,Bristol City F.C.,0
+Q203781,Roy Hodgson,Q260559,Örebro SK,0
+Q203781,Roy Hodgson,Q204881,Malmö FF,0
+Q203781,Roy Hodgson,Q335195,Neuchâtel Xamax FCS,0
+Q203781,Roy Hodgson,Q165141,Switzerland men's national football team,0
+Q203781,Roy Hodgson,Q631,Inter Milan,0
+Q203781,Roy Hodgson,Q19446,Blackburn Rovers F.C.,0
+Q203781,Roy Hodgson,Q631,Inter Milan,0
+Q203781,Roy Hodgson,Q201360,Grasshopper Club Zürich,0
+Q203781,Roy Hodgson,Q188430,F.C. Copenhagen,0
+Q203781,Roy Hodgson,Q2798,Udinese Calcio,0
+Q203781,Roy Hodgson,Q235910,Emirates men's national football team,0
+Q203781,Roy Hodgson,Q211177,Viking FK,0
+Q203781,Roy Hodgson,Q186532,Finland men's national football team,0
+Q203781,Roy Hodgson,Q18708,Fulham F.C.,0
+Q203781,Roy Hodgson,Q1130849,Liverpool F.C.,0
+Q203781,Roy Hodgson,Q18744,West Bromwich Albion F.C.,0
+Q203781,Roy Hodgson,Q47762,England men's national association football team,0
+Q203781,Roy Hodgson,Q19467,Crystal Palace F.C.,1
+Q203781,Roy Hodgson,Q2714,Watford F.C.,0
+Q203781,Roy Hodgson,Q19467,Crystal Palace F.C.,1
+Q312999,Mauro Tassotti,Q1543,AC Milan,1
+Q169092,Zdeněk Zeman,Q1082282,S.S.D. Licata 1931,0
+Q169092,Zdeněk Zeman,Q139399,Calcio Foggia 1920,0
+Q169092,Zdeněk Zeman,Q2693,Parma Calcio 1913,0
+Q169092,Zdeněk Zeman,Q29390,A.C.R. Messina,0
+Q169092,Zdeněk Zeman,Q139399,Calcio Foggia 1920,0
+Q169092,Zdeněk Zeman,Q2609,SS Lazio,0
+Q169092,Zdeněk Zeman,Q2739,A.S. Roma,0
+Q169092,Zdeněk Zeman,Q6601875,Fenerbahçe Istanbul,0
+Q169092,Zdeněk Zeman,Q2641,SSC Napoli,0
+Q169092,Zdeněk Zeman,Q847587,U.S. Salernitana 1919,0
+Q169092,Zdeněk Zeman,Q298217,U.S. Avellino 1912,0
+Q169092,Zdeněk Zeman,Q13391,US Lecce,0
+Q169092,Zdeněk Zeman,Q6651,Brescia Calcio,0
+Q169092,Zdeněk Zeman,Q13391,US Lecce,0
+Q169092,Zdeněk Zeman,Q173009,FK Crvena zvezda,0
+Q169092,Zdeněk Zeman,Q139399,Calcio Foggia 1920,0
+Q169092,Zdeněk Zeman,Q2710,Delfino Pescara 1936,0
+Q169092,Zdeněk Zeman,Q2739,A.S. Roma,0
+Q169092,Zdeněk Zeman,Q1900,Cagliari Calcio,0
+Q169092,Zdeněk Zeman,Q1900,Cagliari Calcio,0
+Q169092,Zdeněk Zeman,Q633521,FC Lugano,1
+Q169092,Zdeněk Zeman,Q2710,Delfino Pescara 1936,0
+Q1335292,Walter Novellino,Q16344,A.C. Perugia Calcio,1
+Q31575,Marcelo Bielsa,Q1128631,Leeds United F.C.,0
+Q31575,Marcelo Bielsa,Q134916,Uruguay men's national football team,0
+Q310078,Helenio Herrera,Q1474354,Stade Français Football,1
+Q310078,Helenio Herrera,Q10319,Real Valladolid,0
+Q310078,Helenio Herrera,Q8701,Atlético de Madrid,0
+Q310078,Helenio Herrera,Q124518,CD Málaga,0
+Q310078,Helenio Herrera,Q8760,Deportivo de La Coruña,0
+Q310078,Helenio Herrera,Q10329,Sevilla FC,0
+Q310078,Helenio Herrera,Q216510,C.F. Os Belenenses,0
+Q310078,Helenio Herrera,Q7156,FC Barcelona,0
+Q310078,Helenio Herrera,Q631,Inter Milan,0
+Q310078,Helenio Herrera,Q2739,A.S. Roma,0
+Q310078,Helenio Herrera,Q2739,A.S. Roma,0
+Q310078,Helenio Herrera,Q631,Inter Milan,0
+Q310078,Helenio Herrera,Q289713,Rimini FC,0
+Q310078,Helenio Herrera,Q289713,Rimini FC,0
+Q310078,Helenio Herrera,Q7156,FC Barcelona,0
+Q310078,Helenio Herrera,Q7156,FC Barcelona,0
+Q1444249,Frank Soo,Q19615,Scunthorpe United F.C.,0
+Q1444249,Frank Soo,Q622430,Djurgårdens IF Fotboll,0
+Q2298680,Bill Dodgin,Q18732,Southampton F.C.,1
+Q369133,Roberto Sensini,Q2798,Udinese Calcio,1
+Q1408093,Ferruccio Valcareggi,Q289656,A.C. Prato,0
+Q317298,Sérgio Conceição,Q621259,S.C. Olhanense,0
+Q317298,Sérgio Conceição,Q243235,Associação Académica de Coimbra – O.A.F.,0
+Q317298,Sérgio Conceição,Q75684,S.C. Braga,0
+Q317298,Sérgio Conceição,Q223450,Vitória S.C.,0
+Q317298,Sérgio Conceição,Q192071,FC Nantes,0
+Q317298,Sérgio Conceição,Q128446,FC Porto,1
+Q317298,Sérgio Conceição,Q1543,AC Milan,0
+Q316633,Alberto Zaccheroni,Q1543,AC Milan,1
+Q310813,Luciano Spalletti,Q6703,Empoli FC,1
+Q310813,Luciano Spalletti,Q6703,Empoli FC,1
+Q310813,Luciano Spalletti,Q1457,U.C. Sampdoria,0
+Q310813,Luciano Spalletti,Q1457,U.C. Sampdoria,0
+Q310813,Luciano Spalletti,Q501245,Venezia F.C.,0
+Q310813,Luciano Spalletti,Q501245,Venezia F.C.,0
+Q310813,Luciano Spalletti,Q2798,Udinese Calcio,0
+Q310813,Luciano Spalletti,Q20706646,A.C. Ancona,0
+Q310813,Luciano Spalletti,Q2798,Udinese Calcio,0
+Q310813,Luciano Spalletti,Q2739,A.S. Roma,0
+Q310813,Luciano Spalletti,Q29108,FC Zenit Saint Petersburg,0
+Q310813,Luciano Spalletti,Q2739,A.S. Roma,0
+Q310813,Luciano Spalletti,Q631,Inter Milan,0
+Q310813,Luciano Spalletti,Q2641,SSC Napoli,0
+Q310813,Luciano Spalletti,Q676899,Italy men's national association football team,0
+Q505701,Nevio Scala,Q8476,AS Reggina 1914,0
+Q294259,Arrigo Sacchi,Q289713,Rimini FC,0
+Q294259,Arrigo Sacchi,Q289713,Rimini FC,0
+Q294259,Arrigo Sacchi,Q2693,Parma Calcio 1913,0
+Q294259,Arrigo Sacchi,Q1543,AC Milan,0
+Q294259,Arrigo Sacchi,Q676899,Italy men's national association football team,0
+Q294259,Arrigo Sacchi,Q1543,AC Milan,0
+Q294259,Arrigo Sacchi,Q8701,Atlético de Madrid,0
+Q294259,Arrigo Sacchi,Q2693,Parma Calcio 1913,0
+Q314670,Simone Inzaghi,Q2609,SS Lazio,1
+Q314670,Simone Inzaghi,Q631,Inter Milan,0
+Q314670,Simone Inzaghi,Q73965,Al Hilal SFC,0
+Q2537282,Luigi Simoni,Q2074,Genoa CFC,1
+Q2537282,Luigi Simoni,Q6651,Brescia Calcio,1
+Q2537282,Luigi Simoni,Q2074,Genoa CFC,1
+Q2537282,Luigi Simoni,Q289613,Pisa SC,0
+Q2537282,Luigi Simoni,Q2609,SS Lazio,0
+Q2537282,Luigi Simoni,Q289613,Pisa SC,0
+Q2537282,Luigi Simoni,Q2074,Genoa CFC,1
+Q2537282,Luigi Simoni,Q6703,Empoli FC,0
+Q2537282,Luigi Simoni,Q1136016,Cosenza Calcio,0
+Q2537282,Luigi Simoni,Q650365,Carrarese Calcio,0
+Q2537282,Luigi Simoni,Q759482,U.S. Cremonese,0
+Q2537282,Luigi Simoni,Q2641,SSC Napoli,1
+Q2537282,Luigi Simoni,Q631,Inter Milan,0
+Q2537282,Luigi Simoni,Q459794,Piacenza Calcio,0
+Q2537282,Luigi Simoni,Q2768,Torino FC,1
+Q2537282,Luigi Simoni,Q136433,PFC CSKA Sofia,0
+Q2537282,Luigi Simoni,Q289029,SSC Ancona,0
+Q2537282,Luigi Simoni,Q2641,SSC Napoli,1
+Q2537282,Luigi Simoni,Q2756,Siena FC,0
+Q2537282,Luigi Simoni,Q298333,Lucchese 1905,0
+Q2537282,Luigi Simoni,Q298314,A.S. Gubbio 1910,0
+Q2537282,Luigi Simoni,Q298314,A.S. Gubbio 1910,0
+Q1376936,Lajos Czeizler,Q1543,AC Milan,1
+Q125438,Massimo Oddo,Q2710,Delfino Pescara 1936,0
+Q230529,Fabio Grosso,Q6641,SSC Bari,0
+Q230529,Fabio Grosso,Q8639,Hellas Verona FC,0
+Q230529,Fabio Grosso,Q6651,Brescia Calcio,0
+Q230529,Fabio Grosso,Q321061,FC Sion,0
+Q230529,Fabio Grosso,Q845043,Frosinone Calcio,0
+Q230529,Fabio Grosso,Q704,Olympique Lyonnais,1
+Q230529,Fabio Grosso,Q8603,US Sassuolo Calcio,0
+Q311619,Cristian Brocchi,Q1543,AC Milan,1
+Q980528,Franco Scoglio,Q3831677,A.S.D Gioiese 1918,0
+Q980528,Franco Scoglio,Q29390,A.C.R. Messina,0
+Q980528,Franco Scoglio,Q29390,A.C.R. Messina,0
+Q980528,Franco Scoglio,Q3831677,A.S.D Gioiese 1918,0
+Q980528,Franco Scoglio,Q1052365,Città di Acireale 1946,0
+Q980528,Franco Scoglio,Q8615,Spezia Calcio,0
+Q980528,Franco Scoglio,Q8476,AS Reggina 1914,0
+Q980528,Franco Scoglio,Q29390,A.C.R. Messina,0
+Q980528,Franco Scoglio,Q6690,F.C. Crotone,0
+Q980528,Franco Scoglio,Q3831677,A.S.D Gioiese 1918,0
+Q980528,Franco Scoglio,Q8476,AS Reggina 1914,0
+Q980528,Franco Scoglio,Q3607383,ASD Akragas 2018,0
+Q980528,Franco Scoglio,Q29390,A.C.R. Messina,0
+Q980528,Franco Scoglio,Q2074,Genoa CFC,0
+Q980528,Franco Scoglio,Q1893,Bologna F.C. 1909,0
+Q980528,Franco Scoglio,Q2798,Udinese Calcio,0
+Q980528,Franco Scoglio,Q298333,Lucchese 1905,0
+Q980528,Franco Scoglio,Q2710,Delfino Pescara 1936,0
+Q980528,Franco Scoglio,Q2074,Genoa CFC,0
+Q980528,Franco Scoglio,Q2768,Torino FC,0
+Q980528,Franco Scoglio,Q1136016,Cosenza Calcio,0
+Q980528,Franco Scoglio,Q20706646,A.C. Ancona,0
+Q980528,Franco Scoglio,Q27971,Tunisia men's national football team,0
+Q980528,Franco Scoglio,Q2074,Genoa CFC,0
+Q980528,Franco Scoglio,Q276089,Libya men's national football team,0
+Q980528,Franco Scoglio,Q2641,SSC Napoli,0
+Q967859,Juan Carlos Lorenzo,Q8835,RCD Mallorca,1
+Q967859,Juan Carlos Lorenzo,Q218282,San Lorenzo de Almagro,0
+Q967859,Juan Carlos Lorenzo,Q79800,Argentina men's national association football team,0
+Q967859,Juan Carlos Lorenzo,Q2609,SS Lazio,0
+Q967859,Juan Carlos Lorenzo,Q2739,A.S. Roma,0
+Q967859,Juan Carlos Lorenzo,Q218282,San Lorenzo de Almagro,0
+Q967859,Juan Carlos Lorenzo,Q79800,Argentina men's national association football team,0
+Q967859,Juan Carlos Lorenzo,Q15799,Club Atlético River Plate,1
+Q967859,Juan Carlos Lorenzo,Q8835,RCD Mallorca,1
+Q967859,Juan Carlos Lorenzo,Q2609,SS Lazio,0
+Q967859,Juan Carlos Lorenzo,Q218282,San Lorenzo de Almagro,0
+Q967859,Juan Carlos Lorenzo,Q8701,Atlético de Madrid,1
+Q967859,Juan Carlos Lorenzo,Q80899,Unión de Santa Fe,0
+Q967859,Juan Carlos Lorenzo,Q170703,Boca Juniors,1
+Q967859,Juan Carlos Lorenzo,Q276533,Racing Club,0
+Q967859,Juan Carlos Lorenzo,Q220621,Argentinos Juniors,0
+Q967859,Juan Carlos Lorenzo,Q218282,San Lorenzo de Almagro,0
+Q967859,Juan Carlos Lorenzo,Q215163,Club Atlético Vélez Sarsfield,0
+Q967859,Juan Carlos Lorenzo,Q1022904,Club Atlético Atlanta,0
+Q967859,Juan Carlos Lorenzo,Q1424072,Independiente Santa Fe,0
+Q967859,Juan Carlos Lorenzo,Q2609,SS Lazio,0
+Q967859,Juan Carlos Lorenzo,Q218282,San Lorenzo de Almagro,0
+Q967859,Juan Carlos Lorenzo,Q170703,Boca Juniors,1
+Q557760,Francesco Guidolin,Q18659,Swansea City A.F.C.,0
+Q354475,Nereo Rocco,Q1543,AC Milan,0
+Q1080952,Nedo Sonetti,Q1380971,Viareggio Calcio,0
+Q1080952,Nedo Sonetti,Q1886341,A.S.D. Casertana Calcio,0
+Q1080952,Nedo Sonetti,Q8615,Spezia Calcio,1
+Q1080952,Nedo Sonetti,Q1136016,Cosenza Calcio,0
+Q1080952,Nedo Sonetti,Q1785447,S.S. Sambenedettese Calcio,0
+Q1080952,Nedo Sonetti,Q1886,Atalanta BC,0
+Q1080952,Nedo Sonetti,Q2798,Udinese Calcio,0
+Q1080952,Nedo Sonetti,Q298217,U.S. Avellino 1912,0
+Q1080952,Nedo Sonetti,Q6630,Ascoli Calcio 1898 FC,0
+Q1080952,Nedo Sonetti,Q1893,Bologna F.C. 1909,0
+Q1080952,Nedo Sonetti,Q13391,US Lecce,0
+Q1080952,Nedo Sonetti,Q289482,AC Monza,0
+Q1080952,Nedo Sonetti,Q2768,Torino FC,0
+Q1080952,Nedo Sonetti,Q759482,U.S. Cremonese,0
+Q1080952,Nedo Sonetti,Q13391,US Lecce,0
+Q1080952,Nedo Sonetti,Q6651,Brescia Calcio,0
+Q1080952,Nedo Sonetti,Q847587,U.S. Salernitana 1919,1
+Q1080952,Nedo Sonetti,Q1900,Cagliari Calcio,0
+Q1080952,Nedo Sonetti,Q2674,Palermo F.C.,0
+Q1080952,Nedo Sonetti,Q20706646,A.C. Ancona,0
+Q1080952,Nedo Sonetti,Q2018,Catania FC,0
+Q1080952,Nedo Sonetti,Q1900,Cagliari Calcio,0
+Q1080952,Nedo Sonetti,Q6630,Ascoli Calcio 1898 FC,0
+Q1080952,Nedo Sonetti,Q1900,Cagliari Calcio,0
+Q1080952,Nedo Sonetti,Q6651,Brescia Calcio,0
+Q1080952,Nedo Sonetti,Q8643,Vicenza Calcio,0
+Q2066281,Alec Stock,Q19568,AFC Bournemouth,0
+Q314599,Héctor Cúper,Q8723,Real Betis Balompié,1
+Q314599,Héctor Cúper,Q272097,Syria men's national football team,0
+Q381262,Fabio Liverani,Q19595,Leyton Orient F.C.,0
+Q388959,Mario Corso,Q13391,US Lecce,0
+Q68067,Umberto Caligaris,Q6651,Brescia Calcio,1
+Q373776,Vujadin Boškov,Q190526,BSC Young Boys,1
+Q507043,Domenico Di Carlo,Q8615,Spezia Calcio,0
+Q507043,Domenico Di Carlo,Q6767,US Livorno 1915,1
+Q507043,Domenico Di Carlo,Q430993,Mantova FC,0
+Q507043,Domenico Di Carlo,Q16848949,Cesena FC,0
+Q507043,Domenico Di Carlo,Q2693,Parma Calcio 1913,0
+Q507043,Domenico Di Carlo,Q8416,Novara Calcio,0
+Q507043,Domenico Di Carlo,Q1457,U.C. Sampdoria,0
+Q507043,Domenico Di Carlo,Q2037,AC ChievoVerona,0
+Q507043,Domenico Di Carlo,Q56542463,LR Vicenza,0
+Q26580,Antonio Conte,Q297430,S.S. Arezzo,0
+Q26580,Antonio Conte,Q297430,S.S. Arezzo,0
+Q26580,Antonio Conte,Q6641,SSC Bari,0
+Q26580,Antonio Conte,Q1886,Atalanta BC,0
+Q26580,Antonio Conte,Q2756,Siena FC,0
+Q26580,Antonio Conte,Q1422,Juventus FC,1
+Q26580,Antonio Conte,Q1422,Juventus FC,1
+Q26580,Antonio Conte,Q676899,Italy men's national association football team,1
+Q26580,Antonio Conte,Q9616,Chelsea F.C.,0
+Q26580,Antonio Conte,Q631,Inter Milan,0
+Q26580,Antonio Conte,Q18741,Tottenham Hotspur F.C.,0
+Q26580,Antonio Conte,Q2641,SSC Napoli,1
+Q1508164,George Raynor,Q622430,Djurgårdens IF Fotboll,0
+Q1508164,George Raynor,Q19589,Doncaster Rovers F.C.,0
+Q502942,György Sárosi,Q6641,SSC Bari,0
+Q967005,Aldo Olivieri,Q1380971,Viareggio Calcio,1
+Q282551,Raffaele Palladino,Q289482,AC Monza,0
+Q282551,Raffaele Palladino,Q2052,ACF Fiorentina,0
+Q282551,Raffaele Palladino,Q631,Inter Milan,0
+Q1140277,Cristian Bucchi,Q2710,Delfino Pescara 1936,1
+Q1087530,Fabio Pecchia,Q298314,A.S. Gubbio 1910,0
+Q556688,Ivan Jurić,Q8639,Hellas Verona FC,0
+Q556688,Ivan Jurić,Q2739,A.S. Roma,0
+Q705935,Gianpiero Marini,Q631,Inter Milan,1
+Q535475,Eraldo Monzeglio,Q1120838,Como 1907,0
+Q613881,Attila Sallustro,Q847587,U.S. Salernitana 1919,1
+Q613881,Attila Sallustro,Q2641,SSC Napoli,1
+Q460577,Amedeo Amadei,Q2641,SSC Napoli,1
+Q2704759,Marco Giampaolo,Q6630,Ascoli Calcio 1898 FC,0
+Q2704759,Marco Giampaolo,Q1900,Cagliari Calcio,0
+Q2704759,Marco Giampaolo,Q1900,Cagliari Calcio,0
+Q2704759,Marco Giampaolo,Q2756,Siena FC,0
+Q2704759,Marco Giampaolo,Q2018,Catania FC,0
+Q2704759,Marco Giampaolo,Q6664,AC Cesena,0
+Q2704759,Marco Giampaolo,Q6651,Brescia Calcio,0
+Q2704759,Marco Giampaolo,Q759482,U.S. Cremonese,0
+Q2704759,Marco Giampaolo,Q6703,Empoli FC,0
+Q2704759,Marco Giampaolo,Q1457,U.C. Sampdoria,0
+Q2704759,Marco Giampaolo,Q1543,AC Milan,0
+Q2704759,Marco Giampaolo,Q2768,Torino FC,0
+Q2704759,Marco Giampaolo,Q1457,U.C. Sampdoria,0
+Q2704759,Marco Giampaolo,Q13391,US Lecce,0
+Q3052298,Emiliano Mondonico,Q759482,U.S. Cremonese,1
+Q3052298,Emiliano Mondonico,Q1120838,Como 1907,0
+Q3052298,Emiliano Mondonico,Q1886,Atalanta BC,1
+Q3052298,Emiliano Mondonico,Q2768,Torino FC,1
+Q3052298,Emiliano Mondonico,Q1886,Atalanta BC,1
+Q3052298,Emiliano Mondonico,Q2768,Torino FC,1
+Q3052298,Emiliano Mondonico,Q2641,SSC Napoli,0
+Q3052298,Emiliano Mondonico,Q1136016,Cosenza Calcio,0
+Q3052298,Emiliano Mondonico,Q1136016,Cosenza Calcio,0
+Q3052298,Emiliano Mondonico,Q2052,ACF Fiorentina,0
+Q3052298,Emiliano Mondonico,Q752483,U.C. AlbinoLeffe,0
+Q3052298,Emiliano Mondonico,Q759482,U.S. Cremonese,1
+Q3052298,Emiliano Mondonico,Q759482,U.S. Cremonese,1
+Q3052298,Emiliano Mondonico,Q752483,U.C. AlbinoLeffe,0
+Q3052298,Emiliano Mondonico,Q752483,U.C. AlbinoLeffe,0
+Q3052298,Emiliano Mondonico,Q8416,Novara Calcio,0
+Q1280931,Luigi Radice,Q289482,AC Monza,0
+Q1280931,Luigi Radice,Q611222,Treviso F.B.C. 1993,0
+Q1280931,Luigi Radice,Q289482,AC Monza,0
+Q1280931,Luigi Radice,Q6664,AC Cesena,0
+Q1280931,Luigi Radice,Q2052,ACF Fiorentina,0
+Q1280931,Luigi Radice,Q1900,Cagliari Calcio,0
+Q1280931,Luigi Radice,Q2768,Torino FC,0
+Q1280931,Luigi Radice,Q1893,Bologna F.C. 1909,0
+Q1280931,Luigi Radice,Q1543,AC Milan,1
+Q1280931,Luigi Radice,Q6641,SSC Bari,0
+Q1280931,Luigi Radice,Q631,Inter Milan,0
+Q1280931,Luigi Radice,Q2768,Torino FC,0
+Q1280931,Luigi Radice,Q2739,A.S. Roma,0
+Q1280931,Luigi Radice,Q1893,Bologna F.C. 1909,0
+Q1280931,Luigi Radice,Q2052,ACF Fiorentina,0
+Q1280931,Luigi Radice,Q1900,Cagliari Calcio,0
+Q1280931,Luigi Radice,Q2074,Genoa CFC,0
+Q1280931,Luigi Radice,Q289482,AC Monza,0
+Q645692,Ottavio Bianchi,Q2756,Siena FC,0
+Q645692,Ottavio Bianchi,Q430993,Mantova FC,0
+Q645692,Ottavio Bianchi,Q13381,U.S. Triestina Calcio 1918,0
+Q645692,Ottavio Bianchi,Q1886,Atalanta BC,1
+Q645692,Ottavio Bianchi,Q298217,U.S. Avellino 1912,0
+Q645692,Ottavio Bianchi,Q1120838,Como 1907,0
+Q645692,Ottavio Bianchi,Q2641,SSC Napoli,1
+Q645692,Ottavio Bianchi,Q2739,A.S. Roma,0
+Q645692,Ottavio Bianchi,Q2641,SSC Napoli,1
+Q645692,Ottavio Bianchi,Q631,Inter Milan,0
+Q645692,Ottavio Bianchi,Q2052,ACF Fiorentina,0
+Q954307,Luis Diego López,Q16320,Club Atlético Peñarol,0
+Q954307,Luis Diego López,Q6651,Brescia Calcio,0
+Q1353173,Stefano Colantuono,Q1785447,S.S. Sambenedettese Calcio,1
+Q923088,Stefano Pioli,Q847587,U.S. Salernitana 1919,0
+Q923088,Stefano Pioli,Q8408,Modena F.C.,0
+Q923088,Stefano Pioli,Q8408,Modena F.C.,0
+Q923088,Stefano Pioli,Q2693,Parma Calcio 1913,1
+Q923088,Stefano Pioli,Q6721,U.S. Grosseto 1912,0
+Q923088,Stefano Pioli,Q459794,Piacenza Calcio,0
+Q923088,Stefano Pioli,Q8603,US Sassuolo Calcio,0
+Q923088,Stefano Pioli,Q2037,AC ChievoVerona,0
+Q923088,Stefano Pioli,Q2674,Palermo F.C.,0
+Q923088,Stefano Pioli,Q1893,Bologna F.C. 1909,0
+Q923088,Stefano Pioli,Q2609,SS Lazio,0
+Q923088,Stefano Pioli,Q631,Inter Milan,0
+Q923088,Stefano Pioli,Q2052,ACF Fiorentina,1
+Q923088,Stefano Pioli,Q1543,AC Milan,0
+Q923088,Stefano Pioli,Q482764,Al-Nassr,0
+Q370838,Walter Mazzarri,Q1052365,Città di Acireale 1946,1
+Q370838,Walter Mazzarri,Q1279917,Pistoiese FC,0
+Q370838,Walter Mazzarri,Q6767,US Livorno 1915,0
+Q370838,Walter Mazzarri,Q8476,AS Reggina 1914,0
+Q370838,Walter Mazzarri,Q1457,U.C. Sampdoria,0
+Q370838,Walter Mazzarri,Q2641,SSC Napoli,0
+Q370838,Walter Mazzarri,Q631,Inter Milan,0
+Q370838,Walter Mazzarri,Q2714,Watford F.C.,0
+Q370838,Walter Mazzarri,Q2768,Torino FC,0
+Q370838,Walter Mazzarri,Q1900,Cagliari Calcio,1
+Q370838,Walter Mazzarri,Q2641,SSC Napoli,0
+Q3107201,Giovanni Galeone,Q257078,Pordenone FC,0
+Q2032119,Roberto De Zerbi,Q4005113,U.S. Darfo Boario S.S.D.,0
+Q2032119,Roberto De Zerbi,Q139399,Calcio Foggia 1920,1
+Q2032119,Roberto De Zerbi,Q2674,Palermo F.C.,0
+Q2032119,Roberto De Zerbi,Q652516,Benevento Calcio,0
+Q2032119,Roberto De Zerbi,Q8603,US Sassuolo Calcio,0
+Q2032119,Roberto De Zerbi,Q172969,FC Shakhtar Donetsk,0
+Q2032119,Roberto De Zerbi,Q19453,Brighton & Hove Albion F.C.,0
+Q2032119,Roberto De Zerbi,Q132885,Olympique de Marseille,0
+Q516363,Luis Carniglia,Q1543,AC Milan,0
+Q3933080,Renzo Ulivieri,Q289656,A.C. Prato,0
+Q604969,Giuseppe Iachini,Q2052,ACF Fiorentina,1
+Q1091404,Vincenzo Italiano,Q1893,Bologna F.C. 1909,0
+Q1615609,Gabriele Cioffi,Q19444,Birmingham City F.C.,0
+Q957291,Alberto Malesani,Q4122219,Panathinaikos F.C.,0
+Q15149,�scar Tabárez,Q645684,C.A. Bella Vista,1
+Q15149,�scar Tabárez,Q2442864,Uruguay national under-20 football team,0
+Q15149,�scar Tabárez,Q584316,Danubio F.C.,0
+Q15149,�scar Tabárez,Q872702,Montevideo Wanderers Fútbol Club,1
+Q15149,�scar Tabárez,Q2442864,Uruguay national under-20 football team,0
+Q15149,�scar Tabárez,Q4348411,Penarol Atlético Clube,0
+Q15149,�scar Tabárez,Q663400,Deportivo Cali,0
+Q15149,�scar Tabárez,Q134916,Uruguay men's national football team,0
+Q15149,�scar Tabárez,Q170703,Boca Juniors,0
+Q15149,�scar Tabárez,Q1900,Cagliari Calcio,0
+Q15149,�scar Tabárez,Q1543,AC Milan,0
+Q15149,�scar Tabárez,Q271574,Real Oviedo,0
+Q15149,�scar Tabárez,Q1900,Cagliari Calcio,0
+Q15149,�scar Tabárez,Q215163,Club Atlético Vélez Sarsfield,0
+Q15149,�scar Tabárez,Q170703,Boca Juniors,0
+Q15149,�scar Tabárez,Q134916,Uruguay men's national football team,0
+Q1062458,Alberto Cavasin,Q19595,Leyton Orient F.C.,0
+Q1890969,William Garbutt,Q1543,AC Milan,0
+Q562201,Gianni De Biasi,Q56542608,Football Club Bassano 1903,0
+Q925027,Ljubiša Broćić,Q7156,FC Barcelona,0
+Q396154,Eusebio Di Francesco,Q8648,Lanciano Calcio 1920,0
+Q396154,Eusebio Di Francesco,Q2710,Delfino Pescara 1936,0
+Q396154,Eusebio Di Francesco,Q13391,US Lecce,0
+Q396154,Eusebio Di Francesco,Q8603,US Sassuolo Calcio,0
+Q396154,Eusebio Di Francesco,Q8603,US Sassuolo Calcio,0
+Q396154,Eusebio Di Francesco,Q2739,A.S. Roma,1
+Q396154,Eusebio Di Francesco,Q1900,Cagliari Calcio,0
+Q396154,Eusebio Di Francesco,Q1457,U.C. Sampdoria,0
+Q396154,Eusebio Di Francesco,Q8639,Hellas Verona FC,0
+Q396154,Eusebio Di Francesco,Q845043,Frosinone Calcio,0
+Q396154,Eusebio Di Francesco,Q501245,Venezia F.C.,0
+Q367846,Gian Piero Gasperini Jotolon,Q2739,A.S. Roma,0
+Q2656692,Giovanni Stroppa,Q1543,AC Milan,1
+Q2445379,William Chalmers,Q2300305,Aldershot F.C.,1
+Q1381448,Federico Munerati,Q297416,A.S.D. Biellese 1902,1
+Q919590,József Viola,Q1543,AC Milan,0
+Q1042372,Carlo Parola,Q289029,SSC Ancona,0
+Q494319,Andrea Mandorlini,Q13381,U.S. Triestina Calcio 1918,0
+Q494319,Andrea Mandorlini,Q8615,Spezia Calcio,0
+Q494319,Andrea Mandorlini,Q56542463,LR Vicenza,0
+Q494319,Andrea Mandorlini,Q1886,Atalanta BC,1
+Q494319,Andrea Mandorlini,Q1893,Bologna F.C. 1909,0
+Q494319,Andrea Mandorlini,Q8428,Calcio Padova,0
+Q494319,Andrea Mandorlini,Q2756,Siena FC,0
+Q494319,Andrea Mandorlini,Q8603,US Sassuolo Calcio,0
+Q494319,Andrea Mandorlini,Q205998,CFR Cluj,0
+Q494319,Andrea Mandorlini,Q8639,Hellas Verona FC,0
+Q494319,Andrea Mandorlini,Q2074,Genoa CFC,0
+Q494319,Andrea Mandorlini,Q759482,U.S. Cremonese,0
+Q494319,Andrea Mandorlini,Q8428,Calcio Padova,0
+Q494319,Andrea Mandorlini,Q430993,Mantova FC,0
+Q494319,Andrea Mandorlini,Q205998,CFR Cluj,0
+Q2846417,Andrea Soncin,Q775805,Italy women's national football team,0
+Q2631653,Gian Piero Ventura,Q3626520,Associazione Calcistica Dilettantistica Rapallo Ruentes 1914,0
+Q2631653,Gian Piero Ventura,Q2276413,Virtus Entella,0
+Q2631653,Gian Piero Ventura,Q2276413,Virtus Entella,0
+Q2631653,Gian Piero Ventura,Q8615,Spezia Calcio,0
+Q2631653,Gian Piero Ventura,Q1451177,A.S.D. Centese 1913,0
+Q2631653,Gian Piero Ventura,Q1279917,Pistoiese FC,0
+Q2631653,Gian Piero Ventura,Q3763940,Giarre F.C.,0
+Q2631653,Gian Piero Ventura,Q501245,Venezia F.C.,0
+Q2631653,Gian Piero Ventura,Q501245,Venezia F.C.,0
+Q2631653,Gian Piero Ventura,Q13391,US Lecce,0
+Q2631653,Gian Piero Ventura,Q1900,Cagliari Calcio,0
+Q2631653,Gian Piero Ventura,Q1457,U.C. Sampdoria,1
+Q2631653,Gian Piero Ventura,Q2798,Udinese Calcio,0
+Q2631653,Gian Piero Ventura,Q1900,Cagliari Calcio,0
+Q2631653,Gian Piero Ventura,Q2641,SSC Napoli,0
+Q2631653,Gian Piero Ventura,Q29390,A.C.R. Messina,0
+Q2631653,Gian Piero Ventura,Q8639,Hellas Verona FC,0
+Q2631653,Gian Piero Ventura,Q289613,Pisa SC,0
+Q2631653,Gian Piero Ventura,Q6641,SSC Bari,0
+Q2631653,Gian Piero Ventura,Q2768,Torino FC,0
+Q2631653,Gian Piero Ventura,Q676899,Italy men's national association football team,0
+Q2631653,Gian Piero Ventura,Q2037,AC ChievoVerona,0
+Q678243,Armando Castellazzi,Q631,Inter Milan,1
+Q983138,Bruno Pesaola,Q2641,SSC Napoli,1
+Q2255483,Jarbas Faustinho,Q2641,SSC Napoli,1
+Q1370535,Paulo Amaral,Q80958,Botafogo F.R.,1
+Q545682,Cristiano Bergodi,Q205998,CFR Cluj,0
+Q545682,Cristiano Bergodi,Q18129096,FC Voluntari,0
+Q545682,Cristiano Bergodi,Q16838020,CS Universitatea Craiova,0
+Q545682,Cristiano Bergodi,Q245162,FC Rapid București,0
+Q923131,Rudi Garcia,Q298285,AS Corbeil,0
+Q923131,Rudi Garcia,Q19521,AS Saint-Étienne,0
+Q923131,Rudi Garcia,Q503317,Dijon FCO,0
+Q923131,Rudi Garcia,Q210864,Le Mans F.C.,0
+Q923131,Rudi Garcia,Q19516,Lille OSC,1
+Q923131,Rudi Garcia,Q2739,A.S. Roma,0
+Q923131,Rudi Garcia,Q132885,Olympique de Marseille,0
+Q923131,Rudi Garcia,Q704,Olympique Lyonnais,0
+Q923131,Rudi Garcia,Q482764,Al-Nassr,0
+Q923131,Rudi Garcia,Q2641,SSC Napoli,0
+Q923131,Rudi Garcia,Q166776,Belgium men's national football team,0
+Q681381,Hermann Felsner,Q1543,AC Milan,0
+Q986195,Guido Ara,Q1543,AC Milan,0
+Q1279343,Luigi De Canio,Q18723,Queens Park Rangers F.C.,0
+Q742534,Angelo Gregucci,Q19595,Leyton Orient F.C.,0
+Q1024171,Davide Ballardini,Q2609,SS Lazio,0
+Q1024171,Davide Ballardini,Q8603,US Sassuolo Calcio,0
+Q354529,Massimiliano Allegri,Q13385,SPAL,0
+Q354529,Massimiliano Allegri,Q6721,U.S. Grosseto 1912,0
+Q354529,Massimiliano Allegri,Q6721,U.S. Grosseto 1912,0
+Q354529,Massimiliano Allegri,Q944876,Calcio Lecco 1912,0
+Q354529,Massimiliano Allegri,Q8603,US Sassuolo Calcio,0
+Q354529,Massimiliano Allegri,Q1900,Cagliari Calcio,1
+Q354529,Massimiliano Allegri,Q1543,AC Milan,0
+Q354529,Massimiliano Allegri,Q1422,Juventus FC,0
+Q354529,Massimiliano Allegri,Q1422,Juventus FC,0
+Q354529,Massimiliano Allegri,Q1543,AC Milan,0
+Q2591305,Mario Magnozzi,Q1543,AC Milan,1
+Q1637407,Luis Miró,Q7156,FC Barcelona,1
+Q1637407,Luis Miró,Q2297920,UE Sants,1
+Q1637407,Luis Miró,Q576521,Terrassa FC,0
+Q1637407,Luis Miró,Q12260,Centre d'Esports Sabadell Futbol Club,0
+Q1637407,Luis Miró,Q10319,Real Valladolid,0
+Q1637407,Luis Miró,Q10333,Valencia CF,0
+Q1637407,Luis Miró,Q10333,Valencia CF,0
+Q1637407,Luis Miró,Q10329,Sevilla FC,0
+Q1637407,Luis Miró,Q8749,RC Celta de Vigo,0
+Q1637407,Luis Miró,Q7156,FC Barcelona,1
+Q1637407,Luis Miró,Q132885,Olympique de Marseille,0
+Q1637407,Luis Miró,Q2739,A.S. Roma,0
+Q1637407,Luis Miró,Q124518,CD Málaga,0
+Q123937,Vladimir Petković,Q289112,AC Bellinzona,1
+Q1317738,Marco Baroni,Q845043,Frosinone Calcio,0
+Q1317738,Marco Baroni,Q759482,U.S. Cremonese,0
+Q1317738,Marco Baroni,Q8476,AS Reggina 1914,0
+Q1317738,Marco Baroni,Q13391,US Lecce,1
+Q3851429,Massimo Rastelli,Q6748,S.S. Juve Stabia,1
+Q3770903,Giuseppe Marchioro,Q1543,AC Milan,1
+Q578673,Aldo Agroppi,Q2710,Delfino Pescara 1936,0
+Q578673,Aldo Agroppi,Q289613,Pisa SC,0
+Q578673,Aldo Agroppi,Q16344,A.C. Perugia Calcio,1
+Q578673,Aldo Agroppi,Q8428,Calcio Padova,0
+Q578673,Aldo Agroppi,Q16344,A.C. Perugia Calcio,1
+Q578673,Aldo Agroppi,Q2052,ACF Fiorentina,0
+Q578673,Aldo Agroppi,Q1120838,Como 1907,0
+Q578673,Aldo Agroppi,Q6630,Ascoli Calcio 1898 FC,0
+Q578673,Aldo Agroppi,Q2052,ACF Fiorentina,0
+Q677456,Antonio Busini,Q1543,AC Milan,1
+Q1489747,Giancarlo Cadé,Q289707,A.C. Reggiana 1919,0
+Q3019103,Davide Nicola,Q289339,A.C. Lumezzane,1
+Q3894528,Paolo Todeschini,Q1543,AC Milan,1
+Q3852721,Maurizio Sarri,Q2609,SS Lazio,0
+Q3852721,Maurizio Sarri,Q2087988,A.C. Sansovino,0
+Q3852721,Maurizio Sarri,Q289696,A.S.D. SanGiovanniValdarno,0
+Q3852721,Maurizio Sarri,Q2710,Delfino Pescara 1936,0
+Q3852721,Maurizio Sarri,Q297430,S.S. Arezzo,0
+Q3852721,Maurizio Sarri,Q298217,U.S. Avellino 1912,0
+Q3852721,Maurizio Sarri,Q8639,Hellas Verona FC,0
+Q3852721,Maurizio Sarri,Q16344,A.C. Perugia Calcio,0
+Q3852721,Maurizio Sarri,Q6721,U.S. Grosseto 1912,0
+Q3852721,Maurizio Sarri,Q16348,FC Alessandria,0
+Q3852721,Maurizio Sarri,Q1508747,Sorrento Calcio 1945,0
+Q3852721,Maurizio Sarri,Q6703,Empoli FC,0
+Q3852721,Maurizio Sarri,Q2641,SSC Napoli,0
+Q3852721,Maurizio Sarri,Q9616,Chelsea F.C.,0
+Q3852721,Maurizio Sarri,Q1422,Juventus FC,0
+Q3852721,Maurizio Sarri,Q2609,SS Lazio,0
+Q361027,Béla Guttmann,Q1543,AC Milan,0
+Q519550,Giuseppe Sannino,Q2714,Watford F.C.,0
+Q317599,Andrea Stramaccioni,Q193481,AC Sparta Prague,0
+Q317599,Andrea Stramaccioni,Q455971,Esteghlal F.C.,0
+Q3940276,Rolando Maran,Q6673,Associazione Sportiva Cittadella,0
+Q3940276,Rolando Maran,Q6651,Brescia Calcio,0
+Q3940276,Rolando Maran,Q6641,SSC Bari,0
+Q3940276,Rolando Maran,Q13381,U.S. Triestina Calcio 1918,0
+Q3940276,Rolando Maran,Q56542463,LR Vicenza,0
+Q3940276,Rolando Maran,Q8633,Varese Calcio,0
+Q3940276,Rolando Maran,Q2018,Catania FC,0
+Q3940276,Rolando Maran,Q2037,AC ChievoVerona,1
+Q3940276,Rolando Maran,Q1900,Cagliari Calcio,0
+Q3940276,Rolando Maran,Q289613,Pisa SC,0
+Q901237,Julio Velázquez,Q8723,Real Betis Balompié,0
+Q1785131,Kosta Runjaić,Q193749,Legia Warsaw,0
+Q4734615,Aurelio Andreazzoli,Q2074,Genoa CFC,0
+Q10346582,Paulo Fonseca,Q1323096,S.U. 1º de Dezembro,0
+Q10346582,Paulo Fonseca,Q3349296,Odivelas F.C.,0
+Q10346582,Paulo Fonseca,Q2980334,C.D. Pinhalnovense,0
+Q10346582,Paulo Fonseca,Q1023163,Clube Desportivo das Aves,0
+Q10346582,Paulo Fonseca,Q371136,F.C. Paços de Ferreira,0
+Q10346582,Paulo Fonseca,Q128446,FC Porto,1
+Q10346582,Paulo Fonseca,Q371136,F.C. Paços de Ferreira,0
+Q10346582,Paulo Fonseca,Q75684,S.C. Braga,0
+Q10346582,Paulo Fonseca,Q172969,FC Shakhtar Donetsk,0
+Q10346582,Paulo Fonseca,Q2739,A.S. Roma,0
+Q10346582,Paulo Fonseca,Q19516,Lille OSC,0
+Q10346582,Paulo Fonseca,Q1543,AC Milan,0
+Q10346582,Paulo Fonseca,Q704,Olympique Lyonnais,0
+Q3851279,Massimo Giacomini,Q1543,AC Milan,1
+Q3862936,Moreno Longo,Q845043,Frosinone Calcio,0
+Q3862936,Moreno Longo,Q2768,Torino FC,1
+Q3767704,Giovanni Martusciello,Q6703,Empoli FC,1
+Q26696437,Leonardo Semplici,Q289613,Pisa SC,0
+Q26696437,Leonardo Semplici,Q13385,SPAL,0
+Q1464710,Diego Bortoluzzi,Q611222,Treviso F.B.C. 1993,1
+Q1407829,Eugenio Bersellini,Q13391,US Lecce,1
+Q1407829,Eugenio Bersellini,Q1120838,Como 1907,0
+Q1407829,Eugenio Bersellini,Q6664,AC Cesena,0
+Q1407829,Eugenio Bersellini,Q1457,U.C. Sampdoria,0
+Q1407829,Eugenio Bersellini,Q631,Inter Milan,0
+Q1407829,Eugenio Bersellini,Q2768,Torino FC,0
+Q1407829,Eugenio Bersellini,Q1457,U.C. Sampdoria,0
+Q1407829,Eugenio Bersellini,Q2052,ACF Fiorentina,0
+Q1407829,Eugenio Bersellini,Q298217,U.S. Avellino 1912,0
+Q1407829,Eugenio Bersellini,Q6630,Ascoli Calcio 1898 FC,0
+Q1407829,Eugenio Bersellini,Q1120838,Como 1907,0
+Q1407829,Eugenio Bersellini,Q8408,Modena F.C.,0
+Q1407829,Eugenio Bersellini,Q1893,Bologna F.C. 1909,0
+Q1407829,Eugenio Bersellini,Q289613,Pisa SC,0
+Q1407829,Eugenio Bersellini,Q3747548,ASD FBC Saronno 1910,0
+Q1407829,Eugenio Bersellini,Q276089,Libya men's national football team,0
+Q1407829,Eugenio Bersellini,Q1932104,Al NSR SC,0
+Q1407829,Eugenio Bersellini,Q429501,Al-ittihad,0
+Q1407829,Eugenio Bersellini,Q2647257,U.S.D. Lavagnese 1919,0
+Q1337031,Ilario Castagner,Q16344,A.C. Perugia Calcio,1
+Q1337031,Ilario Castagner,Q2609,SS Lazio,0
+Q1337031,Ilario Castagner,Q1543,AC Milan,0
+Q1337031,Ilario Castagner,Q631,Inter Milan,0
+Q1337031,Ilario Castagner,Q6630,Ascoli Calcio 1898 FC,0
+Q1337031,Ilario Castagner,Q2710,Delfino Pescara 1936,0
+Q1337031,Ilario Castagner,Q289613,Pisa SC,0
+Q1337031,Ilario Castagner,Q16344,A.C. Perugia Calcio,1
+Q1337031,Ilario Castagner,Q16344,A.C. Perugia Calcio,1
+Q65127311,Alessio Dionisi,Q8603,US Sassuolo Calcio,0
+Q65127311,Alessio Dionisi,Q3642591,Borgosesia Calcio,0
+Q65127311,Alessio Dionisi,Q3149156,Imolese Calcio 1919,0
+Q65127311,Alessio Dionisi,Q2674,Palermo F.C.,0
+Q65127311,Alessio Dionisi,Q6703,Empoli FC,0
+Q65127311,Alessio Dionisi,Q501245,Venezia F.C.,0
+Q65127311,Alessio Dionisi,Q1512790,US Fiorenzuola 1922,0
+Q3838152,Luca Gotti,Q2798,Udinese Calcio,0
+Q113652572,Francesco Calzona,Q16344,A.C. Perugia Calcio,0
+Q113652572,Francesco Calzona,Q16348,FC Alessandria,0
+Q113652572,Francesco Calzona,Q1508747,Sorrento Calcio 1945,0
+Q113652572,Francesco Calzona,Q6703,Empoli FC,0
+Q113652572,Francesco Calzona,Q2641,SSC Napoli,0
+Q113652572,Francesco Calzona,Q1900,Cagliari Calcio,0
+Q113652572,Francesco Calzona,Q2641,SSC Napoli,0
+Q113652572,Francesco Calzona,Q174512,Slovakia men's national football team,0
+Q113652572,Francesco Calzona,Q2641,SSC Napoli,0
